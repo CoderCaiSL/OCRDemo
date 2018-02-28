@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\0896cfa1ecb806782a3390d3f60233913b2ad4d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_61a7b57b416dda80e7691d4f7165c5f6c3981d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\libs\ocr-sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ad68d278e1ba7464783e42e8fb4752ad280dfa6">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\ocr-sdk_8cad5e3d4f0deb8344e3398f6853c4a4c538e2d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\3122a129d0d9f0eaa992e3653ab9b34fb43175d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_81f2965a760bd01da8cf1b4c2e8898f40b47c565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\2ab45ca499f2fde6f40e7699c9671a5069756b16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_42d0efb53c35334aafdd28ea2edfd3c77710e645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_0d03769e5f04f46120fd4adb2c8fd76c9cb144fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\f18e19b8fb50b7365eb11b29ca648cf927044a4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_b7e8a5e6d3e495b54762a096691189f608078883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\libs\license.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eca3cb381d01815bb3cec10d215f5d6ba1b2308d">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\license_76ad905f2df5c45ccd77331d3249fa29b6748f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c2e52d1fcbb0fce1abe72b48f23c51228bb2582">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_0f633ff2b9fe4b2679ea498cc774f4c0adde5c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\f4584daa6b409f0f1b54d8b02682d792f3b50eb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_a06f89d39baa99ae232b7ef3813c0a510cd24295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\86c9b9cdf6d89cd4d9418fb0d6c0ee521be49f6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_919985dbc4a2bd129d483d2108f5d7e84c9c56d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\ffce17b87c76a6bbbfcfe15c57c1082dfe21d50f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_77935e1ebe045ec3db84f82ceb26143c0a10435c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\dc4b26f5e46ea011ba47c6f3179320337a1b0b7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_22842cb497294a39b9f2bfceec785e4167040ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\csl\.android\build-cache\2dd8243a8eb3ac72a56d07f82e8a342fab4132b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\build\intermediates\pre-dexed\debug\classes_859a1e3727efa9308281ca61d6e9ed023ee716ec.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:3:1-27:12
+	package
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:4:11-39
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:20:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\csl\.android\build-cache\f4584daa6b409f0f1b54d8b02682d792f3b50eb4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\csl\.android\build-cache\dc4b26f5e46ea011ba47c6f3179320337a1b0b7c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\csl\.android\build-cache\0896cfa1ecb806782a3390d3f60233913b2ad4d6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\csl\.android\build-cache\2ab45ca499f2fde6f40e7699c9671a5069756b16\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\csl\.android\build-cache\f18e19b8fb50b7365eb11b29ca648cf927044a4e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\csl\.android\build-cache\ffce17b87c76a6bbbfcfe15c57c1082dfe21d50f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\csl\.android\build-cache\2dd8243a8eb3ac72a56d07f82e8a342fab4132b2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\csl\.android\build-cache\86c9b9cdf6d89cd4d9418fb0d6c0ee521be49f6d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\csl\.android\build-cache\3122a129d0d9f0eaa992e3653ab9b34fb43175d6\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:12:13-45
+	android:supportsRtl
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:13:13-39
+	android:vmSafeMode
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:26:9-34
+	android:allowBackup
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:10:13-39
+	android:icon
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:11:13-47
+	android:theme
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:14:13-44
+activity#com.baidu.ocr.demo.MainActivity
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.baidu.ocr.demo.IDCardActivity
+ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:label
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\csl\.android\build-cache\f4584daa6b409f0f1b54d8b02682d792f3b50eb4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\csl\.android\build-cache\dc4b26f5e46ea011ba47c6f3179320337a1b0b7c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\csl\.android\build-cache\0896cfa1ecb806782a3390d3f60233913b2ad4d6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\csl\.android\build-cache\2ab45ca499f2fde6f40e7699c9671a5069756b16\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\csl\.android\build-cache\f18e19b8fb50b7365eb11b29ca648cf927044a4e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\csl\.android\build-cache\ffce17b87c76a6bbbfcfe15c57c1082dfe21d50f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\csl\.android\build-cache\2dd8243a8eb3ac72a56d07f82e8a342fab4132b2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\csl\.android\build-cache\86c9b9cdf6d89cd4d9418fb0d6c0ee521be49f6d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\csl\.android\build-cache\3122a129d0d9f0eaa992e3653ab9b34fb43175d6\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\csl\.android\build-cache\f4584daa6b409f0f1b54d8b02682d792f3b50eb4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aip-ocr-android-sdk-1.4.2\OCRDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera2.full
+ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:16:19-63
+uses-feature#android.hardware.camera
+ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:18:19-67
+activity#com.baidu.ocr.ui.camera.CameraActivity
+ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:27:9-30:80
+	android:configChanges
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:29:13-59
+	android:theme
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:30:13-77
+	android:name
+		ADDED from [OCRDemo:ocr_ui:unspecified] D:\aip-ocr-android-sdk-1.4.2\OCRDemo\ocr_ui\build\intermediates\bundles\default\AndroidManifest.xml:28:13-66
